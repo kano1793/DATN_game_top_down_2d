@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Blueprints/BP_Player.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Data/DT/DT_ShopItemInfo.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Data/DT/DT_UniqueSkillInfo.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Data/DT/DT_CommonSkillInfo.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Blueprints/UI/UI_Menu.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Blueprints/UI/UI_RegisterPlayerName.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Blueprints/UI/UI_Options.uasset",
+				"D:/BackUp/SurvivalGame-53-v2_2/Content/_SG/Blueprints/UI/UI_Layout.uasset"
+			]
+		}
+	]
+}
